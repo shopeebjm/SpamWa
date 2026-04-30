@@ -20,6 +20,12 @@
 - Ahli Peramal
 - Dll.
 
+# Photo
+
+
+# Video
+https://github.com/user-attachments/assets/f0c6c815-016b-4d1d-a2dd-e1e4cdcd3bd6
+
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
