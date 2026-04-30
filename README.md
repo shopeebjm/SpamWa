@@ -21,6 +21,8 @@
 - Dll.
 
 # Photo
+<img width="1080" height="741" alt="Image" src="https://github.com/user-attachments/assets/e9be0786-44c3-456b-9cdc-b12fc41210bb" />
+
 
 
 # Video
