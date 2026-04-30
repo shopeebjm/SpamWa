@@ -32,6 +32,12 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
+Unduh Script Perintah Tools Disini
+
+👇👇
+
+[![Script](https://img.shields.io/badge/Script-83%2B-yellow.svg?style=flat)](https://sfile.co/Frh2MzvQYmJ)
+
 # Social Media
 
 <h2 align="center">
