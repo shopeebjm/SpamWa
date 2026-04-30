@@ -30,13 +30,13 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-[![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
-
 Unduh Script Perintah Tools Disini
 
 👇👇
 
 [![Script](https://img.shields.io/badge/Script-83%2B-yellow.svg?style=flat)](https://sfile.co/Frh2MzvQYmJ)
+
+[![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
 # Social Media
 
